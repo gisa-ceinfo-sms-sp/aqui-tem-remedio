@@ -10,8 +10,8 @@ Também é possível fazer a instalação do aplicativo em dispositivos móveis,
 
 ![aquitemremedio2](https://github.com/gisa-ceinfo-sms-sp/aqui-tem-remedio/assets/75272641/58076e5d-0253-4b26-9a45-f411500b88c2)
 #PraCegoVer: num fundo branco com um ícone de geolocalização azul e branco, está escrito em letras pretas Aqui tem Remédio.
-- Android
-- iOS
+- Android: https://play.google.com/store/apps/details?id=br.com.insix.aquitemremedio&hl=pt_BR
+- iOS: https://apps.apple.com/br/app/aqui-tem-remedio/id1065835148
 
 Contato: aquitemremedio@prefeitura.sp.gov.br
 Mais informações: https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/atencao_basica/index.php?p=207663
